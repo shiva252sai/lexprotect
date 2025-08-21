@@ -6,7 +6,9 @@ Unlike ChatGPT, which does not have access to all Indian laws or a domain-specif
 ---
 
 ## Demo Video  
-[Click here to watch the demo](https://github.com/shiva252sai/lex-protect/raw/main/demo/demo.mp4)  
+## Demo Video
+[Click here to watch the demo](https://github.com/shiva252sai/lexprotect/raw/main/demo/demo.mp4)
+
 
 ---
 
