@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Build / cache / system files
+__pycache__/
+*.pyc
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# Large files & experiments
+data/
+datasets/
+models/
+legalbert-results/
+notebooks/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Others
+*.zip
+*.tar
+*.tar.gz
+rustup-init
+X

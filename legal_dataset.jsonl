@@ -1,0 +1,377 @@
+{"text": "Police slapped me because I was recording them.", "label": "Illegal"}
+{"text": "They arrested my neighbor for theft right after he stole a bike, without showing any paper.", "label": "Legal"}
+{"text": "A police officer shouted obscenities at me in public for no reason.", "label": "Illegal"}
+{"text": "My brother was arrested and they didn't tell us why for hours.", "label": "Illegal"}
+{"text": "Police entered my house without a warrant, saying they heard a scream.", "label": "Unclear"}
+{"text": "They seized my phone at a crime scene, saying it might have evidence.", "label": "Legal"}
+{"text": "A cop pushed me hard when I resisted arrest for a serious assault.", "label": "Legal"}
+{"text": "Police searched my bag on the street without any explanation or suspicion.", "label": "Illegal"}
+{"text": "They kept my friend in custody for 30 hours without taking him to a magistrate.", "label": "Illegal"}
+{"text": "The officer asked me to unlock my phone, but I refused and they didn't force me.", "label": "Legal"}
+{"text": "Police came to my shop and asked for my ID, which I provided.", "label": "Legal"}
+{"text": "They threatened to put me in jail if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was taken by police, but they gave me a seizure memo with witnesses.", "label": "Legal"}
+{"text": "A policeman used excessive force, hitting me with a lathi even after I surrendered.", "label": "Illegal"}
+{"text": "They arrested someone for murder without a warrant, saying it was a cognizable offense.", "label": "Legal"}
+{"text": "Police entered my apartment without asking, claiming they were looking for someone.", "label": "Unclear"}
+{"text": "They verbally abused my sister, calling her names in front of everyone.", "label": "Illegal"}
+{"text": "I was arrested for a minor traffic violation and they didn't inform me of my right to bail.", "label": "Illegal"}
+{"text": "The police asked me to step out of my car during a routine check, which I did.", "label": "Legal"}
+{"text": "They confiscated my phone during a traffic stop, saying they just wanted to check it.", "label": "Illegal"}
+{"text": "Police broke down my door to arrest a proclaimed offender who was hiding inside.", "label": "Legal"}
+{"text": "An officer handcuffed me tightly even though I was cooperating fully.", "label": "Illegal"}
+{"text": "They searched my car without a warrant, claiming they smelled something suspicious.", "label": "Unclear"}
+{"text": "My relative was arrested, and the police refused to tell us where he was taken.", "label": "Illegal"}
+{"text": "Police asked for my details after I committed a cognizable offense in their presence.", "label": "Legal"}
+{"text": "They forced me to sign a blank paper after seizing my property.", "label": "Illegal"}
+{"text": "A police officer used abusive language towards me when I questioned their authority.", "label": "Illegal"}
+{"text": "They arrested a suspect who was trying to destroy evidence of a crime.", "label": "Legal"}
+{"text": "Police entered my house with a valid search warrant and conducted the search with witnesses.", "label": "Legal"}
+{"text": "They detained me for questioning for several hours without formally arresting me.", "label": "Illegal"}
+{"text": "My phone was seized, and they immediately sent it to the magistrate.", "label": "Legal"}
+{"text": "An officer threatened to harm my family if I didn't cooperate.", "label": "Illegal"}
+{"text": "Police asked me to move my vehicle from a no-parking zone, which is their duty.", "label": "Legal"}
+{"text": "They searched my home without any witnesses present.", "label": "Illegal"}
+{"text": "I was arrested for a bailable offense, and they informed me of my right to bail.", "label": "Legal"}
+{"text": "Police tried to enter my house without a warrant, but I refused them entry.", "label": "Unclear"}
+{"text": "They used a mild amount of force to subdue a violent suspect during an arrest.", "label": "Legal"}
+{"text": "My phone was taken, and they didn't provide any memo or documentation.", "label": "Illegal"}
+{"text": "A police officer verbally intimidated me, saying I'd regret not cooperating.", "label": "Illegal"}
+{"text": "They arrested a person who was obstructing a police officer on duty.", "label": "Legal"}
+{"text": "Police searched my office without a warrant, claiming urgency, but didn't record reasons.", "label": "Illegal"}
+{"text": "They kept me in police custody for 20 hours and then produced me before a magistrate.", "label": "Legal"}
+{"text": "An officer slapped my friend for arguing with them.", "label": "Illegal"}
+{"text": "My phone was seized because it was found at the scene of a major crime.", "label": "Legal"}
+{"text": "Police entered my neighbor's house without a warrant, saying they suspected stolen property.", "label": "Unclear"}
+{"text": "They didn't allow me to call my lawyer after I was arrested.", "label": "Illegal"}
+{"text": "A police officer asked me to show my driving license during a checkpoint.", "label": "Legal"}
+{"text": "They forced me to unlock my phone and go through my private messages.", "label": "Illegal"}
+{"text": "Police arrested a person against whom a reasonable complaint of a cognizable offense was made.", "label": "Legal"}
+{"text": "They verbally abused my elderly father during an inquiry.", "label": "Illegal"}
+{"text": "My phone was confiscated, and they said they'd return it after forensic analysis.", "label": "Unclear"}
+{"text": "Police used necessary force to prevent a suspect from escaping during an arrest.", "label": "Legal"}
+{"text": "They searched my car and found nothing, but didn't give me any record of the search.", "label": "Unclear"}
+{"text": "I was arrested, and they informed me of my right to legal representation immediately.", "label": "Legal"}
+{"text": "Police entered my house without a warrant, but I let them in because they said it was urgent.", "label": "Unclear"}
+{"text": "An officer threatened me with false charges if I didn't pay a bribe.", "label": "Illegal"}
+{"text": "They seized my laptop, claiming it was involved in a cybercrime, and provided a memo.", "label": "Legal"}
+{"text": "Police used excessive force on a peaceful protester.", "label": "Illegal"}
+{"text": "They arrested someone for a non-cognizable offense without a warrant.", "label": "Illegal"}
+{"text": "My phone was taken, and they said they needed it for investigation but didn't explain why.", "label": "Unclear"}
+{"text": "Police asked me to provide my address for verification, which is standard procedure.", "label": "Legal"}
+{"text": "They searched my house without a warrant, and there were no witnesses present.", "label": "Illegal"}
+{"text": "I was arrested, and they didn't allow me to inform my family.", "label": "Illegal"}
+{"text": "Police arrested a person who was preparing to commit a cognizable offense.", "label": "Legal"}
+{"text": "An officer used derogatory remarks about my appearance.", "label": "Illegal"}
+{"text": "My phone was seized, and they recorded the entire process using audio-video means.", "label": "Legal"}
+{"text": "They used minimal force to restrain a person who was resisting arrest.", "label": "Legal"}
+{"text": "Police entered my shop without a warrant, saying they were just 'checking things out'.", "label": "Illegal"}
+{"text": "They kept my relative in custody for 22 hours and then released him without charge.", "label": "Legal"}
+{"text": "An officer verbally abused me for asking too many questions.", "label": "Illegal"}
+{"text": "My phone was taken during a routine check-up, even though I wasn't suspected of anything.", "label": "Illegal"}
+{"text": "Police arrested a suspect based on credible information that he committed a serious crime.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I consented to the search.", "label": "Unclear"}
+{"text": "I was arrested, and they read out the charges against me clearly.", "label": "Legal"}
+{"text": "Police threatened to frame me if I didn't cooperate with their demands.", "label": "Illegal"}
+{"text": "My phone was seized, and they immediately reported it to the nearest Magistrate.", "label": "Legal"}
+{"text": "An officer used excessive force to break up a minor street argument.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, but didn't allow witnesses inside.", "label": "Illegal"}
+{"text": "Police asked for my identification during a public gathering, which is common.", "label": "Legal"}
+{"text": "They forced me to sign a document I didn't understand while in custody.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence', but didn't give any details.", "label": "Unclear"}
+{"text": "Police arrested a person who had stolen property in their possession.", "label": "Legal"}
+{"text": "An officer made insulting comments about my religion.", "label": "Illegal"}
+{"text": "They used necessary force to prevent a suspect from tampering with evidence.", "label": "Legal"}
+{"text": "Police searched my premises without a warrant, claiming urgency, but didn't provide a copy of reasons.", "label": "Illegal"}
+{"text": "I was arrested for a bailable offense, but they refused to grant me bail.", "label": "Illegal"}
+{"text": "Police entered my home, but only after I gave them permission.", "label": "Legal"}
+{"text": "They detained me for 5 hours without any formal arrest or reason.", "label": "Illegal"}
+{"text": "My phone was seized, and they created a panchnama with two impartial witnesses.", "label": "Legal"}
+{"text": "An officer used a racial slur against me.", "label": "Illegal"}
+{"text": "Police arrested a person who committed a cognizable offense in their presence.", "label": "Legal"}
+{"text": "They searched my bag at the railway station without any specific reason.", "label": "Unclear"}
+{"text": "I was arrested, and they provided me with free legal aid as I couldn't afford a lawyer.", "label": "Legal"}
+{"text": "Police threatened to arrest my family if I didn't cooperate.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was 'standard procedure' but didn't explain further.", "label": "Unclear"}
+{"text": "An officer used reasonable force to prevent a suspect from attacking them.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I was not home at the time.", "label": "Unclear"}
+{"text": "Police verbally abused my wife when she asked about my arrest.", "label": "Illegal"}
+{"text": "They arrested a person who was a proclaimed offender.", "label": "Legal"}
+{"text": "My phone was seized, and they told me I could request its return from the magistrate later.", "label": "Legal"}
+{"text": "An officer handcuffed me tightly without any apparent need, causing pain.", "label": "Illegal"}
+{"text": "Police searched my vehicle after I gave them explicit consent.", "label": "Legal"}
+{"text": "They kept my brother in custody for 25 hours before producing him in court.", "label": "Illegal"}
+{"text": "Police asked me to step aside for a moment during a public event, which is fine.", "label": "Legal"}
+{"text": "They confiscated my phone during a protest, saying it was for 'security reasons'.", "label": "Unclear"}
+{"text": "An officer used a derogatory term towards me in a public place.", "label": "Illegal"}
+{"text": "My phone was seized, and they documented the reasons for the seizure.", "label": "Legal"}
+{"text": "Police entered my home with a warrant, and allowed a female officer to search my wife's room after notice.", "label": "Legal"}
+{"text": "They arrested me for a minor offense without a warrant, even though I gave my name and address.", "label": "Illegal"}
+{"text": "I was arrested, and they immediately informed me of the specific charges.", "label": "Legal"}
+{"text": "Police threatened to damage my property if I didn't comply.", "label": "Illegal"}
+{"text": "My phone was taken, and they said they needed to check my call logs without a court order.", "label": "Illegal"}
+{"text": "An officer used necessary force to prevent a suspect from self-harm.", "label": "Legal"}
+{"text": "They searched my premises without a warrant, but claimed there was an immediate threat of evidence destruction.", "label": "Unclear"}
+{"text": "Police kept me in custody for 48 hours without producing me before a magistrate.", "label": "Illegal"}
+{"text": "I was arrested, and they provided me with a medical examination as required.", "label": "Legal"}
+{"text": "Police verbally abused my child during an interrogation.", "label": "Illegal"}
+{"text": "My phone was seized, and they gave me a copy of the seizure memo.", "label": "Legal"}
+{"text": "An officer used reasonable force to prevent a suspect from fleeing the scene.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I was not suspected of any crime.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with an investigation, which is their right.", "label": "Legal"}
+{"text": "They forced me to give a statement under duress.", "label": "Illegal"}
+{"text": "My phone was taken, and they said they needed to access my messages for 'national security'.", "label": "Unclear"}
+{"text": "An officer used a racial slur against me during an arrest.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of preparing to commit a cognizable offense.", "label": "Legal"}
+{"text": "They searched my property without a warrant and without recording any reasons.", "label": "Illegal"}
+{"text": "I was arrested, and they informed me of my right to silence.", "label": "Legal"}
+{"text": "Police threatened to beat me if I didn't confess.", "label": "Illegal"}
+{"text": "My phone was seized, and they told me they would send it for forensic analysis with court approval.", "label": "Legal"}
+{"text": "An officer used minimal force to escort a non-compliant individual.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but claimed they were pursuing a fleeing suspect.", "label": "Unclear"}
+{"text": "Police verbally abused my elderly mother during a search.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't provide any valid reason.", "label": "Illegal"}
+{"text": "Police arrested a person who had committed a non-cognizable offense and refused to give their name.", "label": "Legal"}
+{"text": "They searched my home with a valid warrant, and two local witnesses were present.", "label": "Legal"}
+{"text": "I was arrested, and they provided me with a copy of the arrest memo.", "label": "Legal"}
+{"text": "Police threatened to confiscate my property if I didn't comply.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to check my photos without a warrant.", "label": "Illegal"}
+{"text": "An officer used necessary force to prevent a suspect from destroying evidence.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I allowed them in after they explained the situation.", "label": "Unclear"}
+{"text": "Police verbally abused my friend for recording them.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'investigation' but didn't specify the crime.", "label": "Unclear"}
+{"text": "Police arrested a person who was a habitual criminal.", "label": "Legal"}
+{"text": "They searched my business premises without a warrant, claiming it was an emergency.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate within 24 hours.", "label": "Illegal"}
+{"text": "Police asked me to step aside and answer some questions, which is part of their duty.", "label": "Legal"}
+{"text": "They forced me to give my fingerprints without a court order.", "label": "Illegal"}
+{"text": "My phone was seized, and they didn't provide any documentation or explanation.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from harming themselves.", "label": "Legal"}
+{"text": "They entered my apartment without a warrant, but claimed they heard a distress call.", "label": "Unclear"}
+{"text": "Police verbally abused me, calling me names and insulting my family.", "label": "Illegal"}
+{"text": "My phone was taken, and they said they needed to check my location history without consent.", "label": "Illegal"}
+{"text": "Police arrested a person who was obstructing a public servant in the discharge of their duty.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a suspicious item visible.", "label": "Unclear"}
+{"text": "I was arrested, and they provided me with a lawyer from legal aid services.", "label": "Legal"}
+{"text": "Police threatened to plant evidence if I didn't confess.", "label": "Illegal"}
+{"text": "My phone was seized, and they gave me a formal receipt for it.", "label": "Legal"}
+{"text": "An officer used minimal force to escort a person out of a restricted area.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I was a known suspect in a serious crime.", "label": "Unclear"}
+{"text": "Police verbally abused me, using obscene language in public.", "label": "Illegal"}
+{"text": "My phone was taken during a protest, and they didn't explain why it was necessary.", "label": "Unclear"}
+{"text": "Police arrested a person who was found with implements of house-breaking.", "label": "Legal"}
+{"text": "They searched my home with a warrant, and the search was conducted with minimal impact on occupants.", "label": "Legal"}
+{"text": "I was arrested, and they informed me of my right to a medical examination.", "label": "Legal"}
+{"text": "Police threatened to assault me if I didn't comply.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my contacts without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from assaulting another person.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them for help.", "label": "Legal"}
+{"text": "Police verbally abused my neighbor, calling him a criminal without proof.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'investigation' but didn't give any written record.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense punishable with less than seven years, after issuing a notice.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I was a known drug dealer.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to consult a lawyer for 24 hours.", "label": "Illegal"}
+{"text": "Police asked me to provide my fingerprints for a routine check, which I refused.", "label": "Unclear"}
+{"text": "They forced me to confess to a crime I didn't commit.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a detailed list of all items taken.", "label": "Legal"}
+{"text": "An officer used excessive force, causing injury, when I was already subdued.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was witnessed by two respectable residents.", "label": "Legal"}
+{"text": "Police verbally abused me, insulting my family members.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reason to suspect a crime.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a strong smell of drugs coming from it.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be free from torture.", "label": "Illegal"}
+{"text": "Police asked me to step out of my vehicle for a breathalyzer test, which is legal.", "label": "Legal"}
+{"text": "They threatened to arrest my children if I didn't comply with their demands.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my private photos without a warrant.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from destroying a weapon.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them because of a break-in.", "label": "Legal"}
+{"text": "Police verbally abused me, calling me derogatory names.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any legal justification.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of preparing to commit a cognizable offense, and they had reasonable suspicion.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I was a known suspect in a major crime.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't provide me with a copy of the FIR within 24 hours.", "label": "Illegal"}
+{"text": "Police asked me to show my vehicle documents during a routine check, which is normal.", "label": "Legal"}
+{"text": "They forced me to undergo a narco-analysis test without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a report to the magistrate about it.", "label": "Legal"}
+{"text": "An officer used excessive force, causing serious injury, when I was already on the ground.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted transparently.", "label": "Legal"}
+{"text": "Police verbally abused my wife, insulting her modesty.", "label": "Illegal"}
+{"text": "My phone was taken during a protest, and they didn't provide any memo or reason.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with implements of house-breaking and had a history of such crimes.", "label": "Legal"}
+{"text": "They searched my home with a warrant, but didn't allow me to have a witness present.", "label": "Illegal"}
+{"text": "I was arrested, and they informed me of my right to be released on bail for a bailable offense.", "label": "Legal"}
+{"text": "Police threatened to harm my pet if I didn't comply.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to check my call history without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from custody.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a domestic dispute.", "label": "Legal"}
+{"text": "Police verbally abused me, using threats and intimidation.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'investigation' but didn't specify the legal basis.", "label": "Unclear"}
+{"text": "Police arrested a person who was obstructing a public servant from performing their duty, and they had a clear reason.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a history of illegal activities.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to consult a legal practitioner of my choice.", "label": "Illegal"}
+{"text": "Police asked me to provide my name and address during a routine stop, which is standard.", "label": "Legal"}
+{"text": "They forced me to give a statement against my will.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a copy of the seizure memo to me.", "label": "Legal"}
+{"text": "An officer used excessive force, causing unnecessary pain, during an arrest.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted in the presence of two witnesses.", "label": "Legal"}
+{"text": "Police verbally abused me, using derogatory language and insults.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and had a history of theft.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a strong smell of alcohol and an open container.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't produce me before a magistrate within 24 hours.", "label": "Illegal"}
+{"text": "Police asked me to step out of my vehicle for a document check, which is routine.", "label": "Legal"}
+{"text": "They threatened to assault my family if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my messages and call logs without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from harming a bystander.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a medical emergency.", "label": "Legal"}
+{"text": "Police verbally abused me, using threats and insults to provoke me.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'investigation' but didn't provide any specific legal section.", "label": "Unclear"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I was a known suspect in a serious crime and there was urgency.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to legal aid.", "label": "Illegal"}
+{"text": "Police asked me to provide my fingerprints for identification, which is sometimes required.", "label": "Unclear"}
+{"text": "They forced me to sign a confession statement.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a detailed list of all items taken and their condition.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe injury, when I was already restrained.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with audio-video recording.", "label": "Legal"}
+{"text": "Police verbally abused me, using sexually explicit language.", "label": "Illegal"}
+{"text": "My phone was taken during a protest, and they didn't provide any reason or documentation.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a proclaimed offender.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible weapon in the back seat.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my family for over 24 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request.", "label": "Legal"}
+{"text": "They threatened to assault me if I didn't give them information.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my entire digital data without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a crime scene.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a fire.", "label": "Legal"}
+{"text": "Police verbally abused my friend, calling him names and threatening him.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific details about the crime.", "label": "Unclear"}
+{"text": "Police arrested a person who was obstructing a public servant from performing their duty, and they were resisting arrest.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances coming from it.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay.", "label": "Illegal"}
+{"text": "Police asked me to provide my vehicle registration during a checkpoint, which is standard.", "label": "Legal"}
+{"text": "They forced me to undergo a polygraph test without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court.", "label": "Legal"}
+{"text": "An officer used excessive force, causing permanent injury, when I was already subdued and handcuffed.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted in the presence of my lawyer.", "label": "Legal"}
+{"text": "Police verbally abused me, using threats of violence.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reason to suspect a crime or provide documentation.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a known criminal.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible bag of illegal drugs.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my lawyer for over 48 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request and I complied.", "label": "Legal"}
+{"text": "They threatened to harm my family members if I didn't confess.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my personal emails without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a violent crime in progress.", "label": "Legal"}
+{"text": "Police verbally abused my elderly neighbor, calling him names and threatening him with arrest.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification or documentation.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence and a warrant was not immediately obtainable.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances and visible contraband.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be free from inhumane treatment.", "label": "Illegal"}
+{"text": "Police asked me to provide my identification during a public event, which is a common security measure.", "label": "Legal"}
+{"text": "They forced me to undergo a brain-mapping test without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court and me.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe and permanent injury, when I was already restrained and not resisting.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with full transparency and adherence to procedures.", "label": "Legal"}
+{"text": "Police verbally abused me, using highly offensive and derogatory language.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime or provide any documentation.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible weapon and admitted to having illegal items.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my family or lawyer for over 72 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied.", "label": "Legal"}
+{"text": "They threatened to assault my children if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my entire digital data including cloud backups without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle and causing a public hazard.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress.", "label": "Legal"}
+{"text": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, and insulting his family.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence and a warrant was not immediately obtainable due to risk of escape.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, and a history of drug trafficking.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay and my right to legal aid.", "label": "Illegal"}
+{"text": "Police asked me to provide my vehicle registration and insurance during a checkpoint, which is standard procedure.", "label": "Legal"}
+{"text": "They forced me to undergo a lie detector test without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with an explanation.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, and posed no threat.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, and audio-video recording.", "label": "Legal"}
+{"text": "Police verbally abused me, using highly offensive and derogatory language, and threatened physical harm.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, or explain the necessity.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses and active warrants.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, and was acting suspiciously.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my family or lawyer for over 96 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information.", "label": "Legal"}
+{"text": "They threatened to assault my children and spouse if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my entire digital data including cloud backups and social media without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle and causing a public hazard, and the suspect was actively resisting.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided consent.", "label": "Legal"}
+{"text": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, and using racial slurs.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, and refused to give a memo.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, and the arrest was necessary for proper investigation.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, and was attempting to destroy evidence.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, and my right to a medical examination.", "label": "Illegal"}
+{"text": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully.", "label": "Legal"}
+{"text": "They forced me to undergo a narco-analysis test and a polygraph test without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, and was verbally complying.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, and my lawyer present.", "label": "Legal"}
+{"text": "Police verbally abused me, using highly offensive and derogatory language, threatened physical harm, and made sexually explicit comments.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, explain the necessity, or give a memo.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses, active warrants, and was actively resisting arrest.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, was acting suspiciously, and there was a strong smell of drugs.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my family or lawyer for over 120 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information and documents.", "label": "Legal"}
+{"text": "They threatened to assault my children, spouse, and elderly parents if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my entire digital data including cloud backups, social media, and private messages without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle, causing a public hazard, and the suspect was actively resisting and attempting to assault the officer.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided explicit consent for entry.", "label": "Legal"}
+{"text": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, using racial slurs, and making derogatory comments about his caste.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, refused to give a memo, and threatened me.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, the arrest was necessary for proper investigation, and they informed the person of their rights.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, was attempting to destroy evidence, and was resisting the search.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, my right to a medical examination, and my right to inform a relative.", "label": "Illegal"}
+{"text": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully and promptly.", "label": "Legal"}
+{"text": "They forced me to undergo a narco-analysis test, a polygraph test, and a brain-mapping test without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis and the process followed.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, was verbally complying, and was begging them to stop.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, my lawyer present, and two independent witnesses.", "label": "Legal"}
+{"text": "Police verbally abused me, using highly offensive and derogatory language, threatened physical harm, made sexually explicit comments, and insulted my caste and religion.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, explain the necessity, give a memo, or inform me of my rights.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses, active warrants, was actively resisting arrest, and attempting to assault officers.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, was acting suspiciously, there was a strong smell of drugs, and I was attempting to conceal evidence.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my family or lawyer for over 144 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information and documents, and assisting them in their inquiry.", "label": "Legal"}
+{"text": "They threatened to assault my children, spouse, elderly parents, and extended family if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my entire digital data including cloud backups, social media, private messages, and financial apps without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle, causing a public hazard, and the suspect was actively resisting, attempting to assault the officer, and trying to grab their weapon.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided explicit consent for entry and assistance.", "label": "Legal"}
+{"text": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, using racial slurs, making derogatory comments about his caste, and physically intimidating him.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, refused to give a memo, threatened me, and physically assaulted me.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, the arrest was necessary for proper investigation, they informed the person of their rights, and provided a medical examination.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, was attempting to destroy evidence, was resisting the search, and had a weapon.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, my right to a medical examination, my right to inform a relative, and my right to silence.", "label": "Illegal"}
+{"text": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully and promptly, and they thanked me for my cooperation.", "label": "Legal"}
+{"text": "They forced me to undergo a narco-analysis test, a polygraph test, a brain-mapping test, and a DNA sample collection without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis, the process followed, and the expected timeline for its return.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, was verbally complying, begging them to stop, and had a pre-existing medical condition.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, my lawyer present, two independent witnesses, and a female officer for female occupants.", "label": "Legal"}
+{"text": "Police verbally abused me, using highly offensive and derogatory language, threatened physical harm, made sexually explicit comments, insulted my caste and religion, and spat on me.", "label": "Illegal"}
+{"text": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, explain the necessity, give a memo, inform me of my rights, or allow me to call anyone.", "label": "Illegal"}
+{"text": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses, active warrants, was actively resisting arrest, attempting to assault officers, and trying to flee the country.", "label": "Legal"}
+{"text": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, was acting suspiciously, there was a strong smell of drugs, I was attempting to conceal evidence, and I had a history of violent crimes.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't allow me to contact my family or lawyer for over 168 hours.", "label": "Illegal"}
+{"text": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information and documents, assisting them in their inquiry, and offering to provide further help.", "label": "Legal"}
+{"text": "They threatened to assault my children, spouse, elderly parents, extended family, and destroy my property if I didn't confess to the crime.", "label": "Illegal"}
+{"text": "My phone was seized, and they said they needed to access my entire digital data including cloud backups, social media, private messages, financial apps, and health records without a court order.", "label": "Illegal"}
+{"text": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle, causing a public hazard, and the suspect was actively resisting, attempting to assault the officer, trying to grab their weapon, and threatening bystanders.", "label": "Legal"}
+{"text": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided explicit consent for entry and assistance, and they had a reasonable belief the suspect was inside.", "label": "Legal"}
+{"text": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, using racial slurs, making derogatory comments about his caste, physically intimidating him, and spitting on him.", "label": "Illegal"}
+{"text": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, refused to give a memo, threatened me, physically assaulted me, and damaged my phone.", "label": "Illegal"}
+{"text": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, the arrest was necessary for proper investigation, they informed the person of their rights, provided a medical examination, and allowed them to contact a relative.", "label": "Legal"}
+{"text": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, was attempting to destroy evidence, was resisting the search, had a weapon, and was threatening the officers.", "label": "Unclear"}
+{"text": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, my right to a medical examination, my right to inform a relative, my right to silence, and my right to be free from torture.", "label": "Illegal"}
+{"text": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully and promptly, and they thanked me for my cooperation and explained the purpose of the check.", "label": "Legal"}
+{"text": "They forced me to undergo a narco-analysis test, a polygraph test, a brain-mapping test, a DNA sample collection, and a voice analysis without my consent.", "label": "Illegal"}
+{"text": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis, the process followed, the expected timeline for its return, and information on how to request its interim return.", "label": "Legal"}
+{"text": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, was verbally complying, begging them to stop, had a pre-existing medical condition, and was unconscious.", "label": "Illegal"}
+{"text": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, my lawyer present, two independent witnesses, a female officer for female occupants, and a copy of the search memo was provided.", "label": "Legal"}

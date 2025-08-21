@@ -1,0 +1,377 @@
+{"query": "Police slapped me because I was recording them.", "verdict": "Illegal"}
+{"query": "They arrested my neighbor for theft right after he stole a bike, without showing any paper.", "verdict": "Legal"}
+{"query": "A police officer shouted obscenities at me in public for no reason.", "verdict": "Illegal"}
+{"query": "My brother was arrested and they didn't tell us why for hours.", "verdict": "Illegal"}
+{"query": "Police entered my house without a warrant, saying they heard a scream.", "verdict": "Unclear"}
+{"query": "They seized my phone at a crime scene, saying it might have evidence.", "verdict": "Legal"}
+{"query": "A cop pushed me hard when I resisted arrest for a serious assault.", "verdict": "Legal"}
+{"query": "Police searched my bag on the street without any explanation or suspicion.", "verdict": "Illegal"}
+{"query": "They kept my friend in custody for 30 hours without taking him to a magistrate.", "verdict": "Illegal"}
+{"query": "The officer asked me to unlock my phone, but I refused and they didn't force me.", "verdict": "Legal"}
+{"query": "Police came to my shop and asked for my ID, which I provided.", "verdict": "Legal"}
+{"query": "They threatened to put me in jail if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was taken by police, but they gave me a seizure memo with witnesses.", "verdict": "Legal"}
+{"query": "A policeman used excessive force, hitting me with a lathi even after I surrendered.", "verdict": "Illegal"}
+{"query": "They arrested someone for murder without a warrant, saying it was a cognizable offense.", "verdict": "Legal"}
+{"query": "Police entered my apartment without asking, claiming they were looking for someone.", "verdict": "Unclear"}
+{"query": "They verbally abused my sister, calling her names in front of everyone.", "verdict": "Illegal"}
+{"query": "I was arrested for a minor traffic violation and they didn't inform me of my right to bail.", "verdict": "Illegal"}
+{"query": "The police asked me to step out of my car during a routine check, which I did.", "verdict": "Legal"}
+{"query": "They confiscated my phone during a traffic stop, saying they just wanted to check it.", "verdict": "Illegal"}
+{"query": "Police broke down my door to arrest a proclaimed offender who was hiding inside.", "verdict": "Legal"}
+{"query": "An officer handcuffed me tightly even though I was cooperating fully.", "verdict": "Illegal"}
+{"query": "They searched my car without a warrant, claiming they smelled something suspicious.", "verdict": "Unclear"}
+{"query": "My relative was arrested, and the police refused to tell us where he was taken.", "verdict": "Illegal"}
+{"query": "Police asked for my details after I committed a cognizable offense in their presence.", "verdict": "Legal"}
+{"query": "They forced me to sign a blank paper after seizing my property.", "verdict": "Illegal"}
+{"query": "A police officer used abusive language towards me when I questioned their authority.", "verdict": "Illegal"}
+{"query": "They arrested a suspect who was trying to destroy evidence of a crime.", "verdict": "Legal"}
+{"query": "Police entered my house with a valid search warrant and conducted the search with witnesses.", "verdict": "Legal"}
+{"query": "They detained me for questioning for several hours without formally arresting me.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they immediately sent it to the magistrate.", "verdict": "Legal"}
+{"query": "An officer threatened to harm my family if I didn't cooperate.", "verdict": "Illegal"}
+{"query": "Police asked me to move my vehicle from a no-parking zone, which is their duty.", "verdict": "Legal"}
+{"query": "They searched my home without any witnesses present.", "verdict": "Illegal"}
+{"query": "I was arrested for a bailable offense, and they informed me of my right to bail.", "verdict": "Legal"}
+{"query": "Police tried to enter my house without a warrant, but I refused them entry.", "verdict": "Unclear"}
+{"query": "They used a mild amount of force to subdue a violent suspect during an arrest.", "verdict": "Legal"}
+{"query": "My phone was taken, and they didn't provide any memo or documentation.", "verdict": "Illegal"}
+{"query": "A police officer verbally intimidated me, saying I'd regret not cooperating.", "verdict": "Illegal"}
+{"query": "They arrested a person who was obstructing a police officer on duty.", "verdict": "Legal"}
+{"query": "Police searched my office without a warrant, claiming urgency, but didn't record reasons.", "verdict": "Illegal"}
+{"query": "They kept me in police custody for 20 hours and then produced me before a magistrate.", "verdict": "Legal"}
+{"query": "An officer slapped my friend for arguing with them.", "verdict": "Illegal"}
+{"query": "My phone was seized because it was found at the scene of a major crime.", "verdict": "Legal"}
+{"query": "Police entered my neighbor's house without a warrant, saying they suspected stolen property.", "verdict": "Unclear"}
+{"query": "They didn't allow me to call my lawyer after I was arrested.", "verdict": "Illegal"}
+{"query": "A police officer asked me to show my driving license during a checkpoint.", "verdict": "Legal"}
+{"query": "They forced me to unlock my phone and go through my private messages.", "verdict": "Illegal"}
+{"query": "Police arrested a person against whom a reasonable complaint of a cognizable offense was made.", "verdict": "Legal"}
+{"query": "They verbally abused my elderly father during an inquiry.", "verdict": "Illegal"}
+{"query": "My phone was confiscated, and they said they'd return it after forensic analysis.", "verdict": "Unclear"}
+{"query": "Police used necessary force to prevent a suspect from escaping during an arrest.", "verdict": "Legal"}
+{"query": "They searched my car and found nothing, but didn't give me any record of the search.", "verdict": "Unclear"}
+{"query": "I was arrested, and they informed me of my right to legal representation immediately.", "verdict": "Legal"}
+{"query": "Police entered my house without a warrant, but I let them in because they said it was urgent.", "verdict": "Unclear"}
+{"query": "An officer threatened me with false charges if I didn't pay a bribe.", "verdict": "Illegal"}
+{"query": "They seized my laptop, claiming it was involved in a cybercrime, and provided a memo.", "verdict": "Legal"}
+{"query": "Police used excessive force on a peaceful protester.", "verdict": "Illegal"}
+{"query": "They arrested someone for a non-cognizable offense without a warrant.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said they needed it for investigation but didn't explain why.", "verdict": "Unclear"}
+{"query": "Police asked me to provide my address for verification, which is standard procedure.", "verdict": "Legal"}
+{"query": "They searched my house without a warrant, and there were no witnesses present.", "verdict": "Illegal"}
+{"query": "I was arrested, and they didn't allow me to inform my family.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was preparing to commit a cognizable offense.", "verdict": "Legal"}
+{"query": "An officer used derogatory remarks about my appearance.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they recorded the entire process using audio-video means.", "verdict": "Legal"}
+{"query": "They used minimal force to restrain a person who was resisting arrest.", "verdict": "Legal"}
+{"query": "Police entered my shop without a warrant, saying they were just 'checking things out'.", "verdict": "Illegal"}
+{"query": "They kept my relative in custody for 22 hours and then released him without charge.", "verdict": "Legal"}
+{"query": "An officer verbally abused me for asking too many questions.", "verdict": "Illegal"}
+{"query": "My phone was taken during a routine check-up, even though I wasn't suspected of anything.", "verdict": "Illegal"}
+{"query": "Police arrested a suspect based on credible information that he committed a serious crime.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I consented to the search.", "verdict": "Unclear"}
+{"query": "I was arrested, and they read out the charges against me clearly.", "verdict": "Legal"}
+{"query": "Police threatened to frame me if I didn't cooperate with their demands.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they immediately reported it to the nearest Magistrate.", "verdict": "Legal"}
+{"query": "An officer used excessive force to break up a minor street argument.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, but didn't allow witnesses inside.", "verdict": "Illegal"}
+{"query": "Police asked for my identification during a public gathering, which is common.", "verdict": "Legal"}
+{"query": "They forced me to sign a document I didn't understand while in custody.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence', but didn't give any details.", "verdict": "Unclear"}
+{"query": "Police arrested a person who had stolen property in their possession.", "verdict": "Legal"}
+{"query": "An officer made insulting comments about my religion.", "verdict": "Illegal"}
+{"query": "They used necessary force to prevent a suspect from tampering with evidence.", "verdict": "Legal"}
+{"query": "Police searched my premises without a warrant, claiming urgency, but didn't provide a copy of reasons.", "verdict": "Illegal"}
+{"query": "I was arrested for a bailable offense, but they refused to grant me bail.", "verdict": "Illegal"}
+{"query": "Police entered my home, but only after I gave them permission.", "verdict": "Legal"}
+{"query": "They detained me for 5 hours without any formal arrest or reason.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they created a panchnama with two impartial witnesses.", "verdict": "Legal"}
+{"query": "An officer used a racial slur against me.", "verdict": "Illegal"}
+{"query": "Police arrested a person who committed a cognizable offense in their presence.", "verdict": "Legal"}
+{"query": "They searched my bag at the railway station without any specific reason.", "verdict": "Unclear"}
+{"query": "I was arrested, and they provided me with free legal aid as I couldn't afford a lawyer.", "verdict": "Legal"}
+{"query": "Police threatened to arrest my family if I didn't cooperate.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was 'standard procedure' but didn't explain further.", "verdict": "Unclear"}
+{"query": "An officer used reasonable force to prevent a suspect from attacking them.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I was not home at the time.", "verdict": "Unclear"}
+{"query": "Police verbally abused my wife when she asked about my arrest.", "verdict": "Illegal"}
+{"query": "They arrested a person who was a proclaimed offender.", "verdict": "Legal"}
+{"query": "My phone was seized, and they told me I could request its return from the magistrate later.", "verdict": "Legal"}
+{"query": "An officer handcuffed me tightly without any apparent need, causing pain.", "verdict": "Illegal"}
+{"query": "Police searched my vehicle after I gave them explicit consent.", "verdict": "Legal"}
+{"query": "They kept my brother in custody for 25 hours before producing him in court.", "verdict": "Illegal"}
+{"query": "Police asked me to step aside for a moment during a public event, which is fine.", "verdict": "Legal"}
+{"query": "They confiscated my phone during a protest, saying it was for 'security reasons'.", "verdict": "Unclear"}
+{"query": "An officer used a derogatory term towards me in a public place.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they documented the reasons for the seizure.", "verdict": "Legal"}
+{"query": "Police entered my home with a warrant, and allowed a female officer to search my wife's room after notice.", "verdict": "Legal"}
+{"query": "They arrested me for a minor offense without a warrant, even though I gave my name and address.", "verdict": "Illegal"}
+{"query": "I was arrested, and they immediately informed me of the specific charges.", "verdict": "Legal"}
+{"query": "Police threatened to damage my property if I didn't comply.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said they needed to check my call logs without a court order.", "verdict": "Illegal"}
+{"query": "An officer used necessary force to prevent a suspect from self-harm.", "verdict": "Legal"}
+{"query": "They searched my premises without a warrant, but claimed there was an immediate threat of evidence destruction.", "verdict": "Unclear"}
+{"query": "Police kept me in custody for 48 hours without producing me before a magistrate.", "verdict": "Illegal"}
+{"query": "I was arrested, and they provided me with a medical examination as required.", "verdict": "Legal"}
+{"query": "Police verbally abused my child during an interrogation.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they gave me a copy of the seizure memo.", "verdict": "Legal"}
+{"query": "An officer used reasonable force to prevent a suspect from fleeing the scene.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I was not suspected of any crime.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with an investigation, which is their right.", "verdict": "Legal"}
+{"query": "They forced me to give a statement under duress.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said they needed to access my messages for 'national security'.", "verdict": "Unclear"}
+{"query": "An officer used a racial slur against me during an arrest.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of preparing to commit a cognizable offense.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant and without recording any reasons.", "verdict": "Illegal"}
+{"query": "I was arrested, and they informed me of my right to silence.", "verdict": "Legal"}
+{"query": "Police threatened to beat me if I didn't confess.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they told me they would send it for forensic analysis with court approval.", "verdict": "Legal"}
+{"query": "An officer used minimal force to escort a non-compliant individual.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but claimed they were pursuing a fleeing suspect.", "verdict": "Unclear"}
+{"query": "Police verbally abused my elderly mother during a search.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't provide any valid reason.", "verdict": "Illegal"}
+{"query": "Police arrested a person who had committed a non-cognizable offense and refused to give their name.", "verdict": "Legal"}
+{"query": "They searched my home with a valid warrant, and two local witnesses were present.", "verdict": "Legal"}
+{"query": "I was arrested, and they provided me with a copy of the arrest memo.", "verdict": "Legal"}
+{"query": "Police threatened to confiscate my property if I didn't comply.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to check my photos without a warrant.", "verdict": "Illegal"}
+{"query": "An officer used necessary force to prevent a suspect from destroying evidence.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I allowed them in after they explained the situation.", "verdict": "Unclear"}
+{"query": "Police verbally abused my friend for recording them.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'investigation' but didn't specify the crime.", "verdict": "Unclear"}
+{"query": "Police arrested a person who was a habitual criminal.", "verdict": "Legal"}
+{"query": "They searched my business premises without a warrant, claiming it was an emergency.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate within 24 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to step aside and answer some questions, which is part of their duty.", "verdict": "Legal"}
+{"query": "They forced me to give my fingerprints without a court order.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they didn't provide any documentation or explanation.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from harming themselves.", "verdict": "Legal"}
+{"query": "They entered my apartment without a warrant, but claimed they heard a distress call.", "verdict": "Unclear"}
+{"query": "Police verbally abused me, calling me names and insulting my family.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said they needed to check my location history without consent.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was obstructing a public servant in the discharge of their duty.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a suspicious item visible.", "verdict": "Unclear"}
+{"query": "I was arrested, and they provided me with a lawyer from legal aid services.", "verdict": "Legal"}
+{"query": "Police threatened to plant evidence if I didn't confess.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they gave me a formal receipt for it.", "verdict": "Legal"}
+{"query": "An officer used minimal force to escort a person out of a restricted area.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I was a known suspect in a serious crime.", "verdict": "Unclear"}
+{"query": "Police verbally abused me, using obscene language in public.", "verdict": "Illegal"}
+{"query": "My phone was taken during a protest, and they didn't explain why it was necessary.", "verdict": "Unclear"}
+{"query": "Police arrested a person who was found with implements of house-breaking.", "verdict": "Legal"}
+{"query": "They searched my home with a warrant, and the search was conducted with minimal impact on occupants.", "verdict": "Legal"}
+{"query": "I was arrested, and they informed me of my right to a medical examination.", "verdict": "Legal"}
+{"query": "Police threatened to assault me if I didn't comply.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my contacts without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from assaulting another person.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them for help.", "verdict": "Legal"}
+{"query": "Police verbally abused my neighbor, calling him a criminal without proof.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'investigation' but didn't give any written record.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense punishable with less than seven years, after issuing a notice.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I was a known drug dealer.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to consult a lawyer for 24 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my fingerprints for a routine check, which I refused.", "verdict": "Unclear"}
+{"query": "They forced me to confess to a crime I didn't commit.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a detailed list of all items taken.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing injury, when I was already subdued.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was witnessed by two respectable residents.", "verdict": "Legal"}
+{"query": "Police verbally abused me, insulting my family members.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reason to suspect a crime.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a strong smell of drugs coming from it.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be free from torture.", "verdict": "Illegal"}
+{"query": "Police asked me to step out of my vehicle for a breathalyzer test, which is legal.", "verdict": "Legal"}
+{"query": "They threatened to arrest my children if I didn't comply with their demands.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my private photos without a warrant.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from destroying a weapon.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them because of a break-in.", "verdict": "Legal"}
+{"query": "Police verbally abused me, calling me derogatory names.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any legal justification.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of preparing to commit a cognizable offense, and they had reasonable suspicion.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I was a known suspect in a major crime.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't provide me with a copy of the FIR within 24 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to show my vehicle documents during a routine check, which is normal.", "verdict": "Legal"}
+{"query": "They forced me to undergo a narco-analysis test without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a report to the magistrate about it.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing serious injury, when I was already on the ground.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted transparently.", "verdict": "Legal"}
+{"query": "Police verbally abused my wife, insulting her modesty.", "verdict": "Illegal"}
+{"query": "My phone was taken during a protest, and they didn't provide any memo or reason.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with implements of house-breaking and had a history of such crimes.", "verdict": "Legal"}
+{"query": "They searched my home with a warrant, but didn't allow me to have a witness present.", "verdict": "Illegal"}
+{"query": "I was arrested, and they informed me of my right to be released on bail for a bailable offense.", "verdict": "Legal"}
+{"query": "Police threatened to harm my pet if I didn't comply.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to check my call history without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from custody.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a domestic dispute.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using threats and intimidation.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'investigation' but didn't specify the legal basis.", "verdict": "Unclear"}
+{"query": "Police arrested a person who was obstructing a public servant from performing their duty, and they had a clear reason.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a history of illegal activities.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to consult a legal practitioner of my choice.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my name and address during a routine stop, which is standard.", "verdict": "Legal"}
+{"query": "They forced me to give a statement against my will.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a copy of the seizure memo to me.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing unnecessary pain, during an arrest.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted in the presence of two witnesses.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using derogatory language and insults.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and had a history of theft.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a strong smell of alcohol and an open container.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't produce me before a magistrate within 24 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to step out of my vehicle for a document check, which is routine.", "verdict": "Legal"}
+{"query": "They threatened to assault my family if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my messages and call logs without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from harming a bystander.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a medical emergency.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using threats and insults to provoke me.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'investigation' but didn't provide any specific legal section.", "verdict": "Unclear"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I was a known suspect in a serious crime and there was urgency.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to legal aid.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my fingerprints for identification, which is sometimes required.", "verdict": "Unclear"}
+{"query": "They forced me to sign a confession statement.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a detailed list of all items taken and their condition.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe injury, when I was already restrained.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with audio-video recording.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using sexually explicit language.", "verdict": "Illegal"}
+{"query": "My phone was taken during a protest, and they didn't provide any reason or documentation.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a proclaimed offender.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible weapon in the back seat.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my family for over 24 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request.", "verdict": "Legal"}
+{"query": "They threatened to assault me if I didn't give them information.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my entire digital data without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a crime scene.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a fire.", "verdict": "Legal"}
+{"query": "Police verbally abused my friend, calling him names and threatening him.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific details about the crime.", "verdict": "Unclear"}
+{"query": "Police arrested a person who was obstructing a public servant from performing their duty, and they were resisting arrest.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances coming from it.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my vehicle registration during a checkpoint, which is standard.", "verdict": "Legal"}
+{"query": "They forced me to undergo a polygraph test without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing permanent injury, when I was already subdued and handcuffed.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted in the presence of my lawyer.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using threats of violence.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reason to suspect a crime or provide documentation.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a known criminal.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible bag of illegal drugs.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my lawyer for over 48 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request and I complied.", "verdict": "Legal"}
+{"query": "They threatened to harm my family members if I didn't confess.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my personal emails without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a violent crime in progress.", "verdict": "Legal"}
+{"query": "Police verbally abused my elderly neighbor, calling him names and threatening him with arrest.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification or documentation.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence and a warrant was not immediately obtainable.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances and visible contraband.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be free from inhumane treatment.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my identification during a public event, which is a common security measure.", "verdict": "Legal"}
+{"query": "They forced me to undergo a brain-mapping test without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court and me.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe and permanent injury, when I was already restrained and not resisting.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with full transparency and adherence to procedures.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using highly offensive and derogatory language.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime or provide any documentation.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible weapon and admitted to having illegal items.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my family or lawyer for over 72 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied.", "verdict": "Legal"}
+{"query": "They threatened to assault my children if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my entire digital data including cloud backups without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle and causing a public hazard.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress.", "verdict": "Legal"}
+{"query": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, and insulting his family.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence and a warrant was not immediately obtainable due to risk of escape.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, and a history of drug trafficking.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay and my right to legal aid.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my vehicle registration and insurance during a checkpoint, which is standard procedure.", "verdict": "Legal"}
+{"query": "They forced me to undergo a lie detector test without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with an explanation.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, and posed no threat.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, and audio-video recording.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using highly offensive and derogatory language, and threatened physical harm.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, or explain the necessity.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses and active warrants.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, and was acting suspiciously.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my family or lawyer for over 96 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information.", "verdict": "Legal"}
+{"query": "They threatened to assault my children and spouse if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my entire digital data including cloud backups and social media without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle and causing a public hazard, and the suspect was actively resisting.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided consent.", "verdict": "Legal"}
+{"query": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, and using racial slurs.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, and refused to give a memo.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, and the arrest was necessary for proper investigation.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, and was attempting to destroy evidence.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, and my right to a medical examination.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully.", "verdict": "Legal"}
+{"query": "They forced me to undergo a narco-analysis test and a polygraph test without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, and was verbally complying.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, and my lawyer present.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using highly offensive and derogatory language, threatened physical harm, and made sexually explicit comments.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, explain the necessity, or give a memo.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses, active warrants, and was actively resisting arrest.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, was acting suspiciously, and there was a strong smell of drugs.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my family or lawyer for over 120 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information and documents.", "verdict": "Legal"}
+{"query": "They threatened to assault my children, spouse, and elderly parents if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my entire digital data including cloud backups, social media, and private messages without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle, causing a public hazard, and the suspect was actively resisting and attempting to assault the officer.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided explicit consent for entry.", "verdict": "Legal"}
+{"query": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, using racial slurs, and making derogatory comments about his caste.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, refused to give a memo, and threatened me.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, the arrest was necessary for proper investigation, and they informed the person of their rights.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, was attempting to destroy evidence, and was resisting the search.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, my right to a medical examination, and my right to inform a relative.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully and promptly.", "verdict": "Legal"}
+{"query": "They forced me to undergo a narco-analysis test, a polygraph test, and a brain-mapping test without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis and the process followed.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, was verbally complying, and was begging them to stop.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, my lawyer present, and two independent witnesses.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using highly offensive and derogatory language, threatened physical harm, made sexually explicit comments, and insulted my caste and religion.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, explain the necessity, give a memo, or inform me of my rights.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses, active warrants, was actively resisting arrest, and attempting to assault officers.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, was acting suspiciously, there was a strong smell of drugs, and I was attempting to conceal evidence.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my family or lawyer for over 144 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information and documents, and assisting them in their inquiry.", "verdict": "Legal"}
+{"query": "They threatened to assault my children, spouse, elderly parents, and extended family if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my entire digital data including cloud backups, social media, private messages, and financial apps without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle, causing a public hazard, and the suspect was actively resisting, attempting to assault the officer, and trying to grab their weapon.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided explicit consent for entry and assistance.", "verdict": "Legal"}
+{"query": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, using racial slurs, making derogatory comments about his caste, and physically intimidating him.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, refused to give a memo, threatened me, and physically assaulted me.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, the arrest was necessary for proper investigation, they informed the person of their rights, and provided a medical examination.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, was attempting to destroy evidence, was resisting the search, and had a weapon.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, my right to a medical examination, my right to inform a relative, and my right to silence.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully and promptly, and they thanked me for my cooperation.", "verdict": "Legal"}
+{"query": "They forced me to undergo a narco-analysis test, a polygraph test, a brain-mapping test, and a DNA sample collection without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis, the process followed, and the expected timeline for its return.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, was verbally complying, begging them to stop, and had a pre-existing medical condition.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, my lawyer present, two independent witnesses, and a female officer for female occupants.", "verdict": "Legal"}
+{"query": "Police verbally abused me, using highly offensive and derogatory language, threatened physical harm, made sexually explicit comments, insulted my caste and religion, and spat on me.", "verdict": "Illegal"}
+{"query": "My phone was taken during a traffic stop, and they didn't have any reasonable suspicion of a crime, provide any documentation, explain the necessity, give a memo, inform me of my rights, or allow me to call anyone.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was found with stolen property and was a known criminal with a history of violent offenses, active warrants, was actively resisting arrest, attempting to assault officers, and trying to flee the country.", "verdict": "Legal"}
+{"query": "They searched my car without a warrant, but I had a visible weapon, admitted to having illegal items, was acting suspiciously, there was a strong smell of drugs, I was attempting to conceal evidence, and I had a history of violent crimes.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't allow me to contact my family or lawyer for over 168 hours.", "verdict": "Illegal"}
+{"query": "Police asked me to cooperate with their investigation, which is a reasonable request and I fully complied, providing all necessary information and documents, assisting them in their inquiry, and offering to provide further help.", "verdict": "Legal"}
+{"query": "They threatened to assault my children, spouse, elderly parents, extended family, and destroy my property if I didn't confess to the crime.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they said they needed to access my entire digital data including cloud backups, social media, private messages, financial apps, and health records without a court order.", "verdict": "Illegal"}
+{"query": "An officer used reasonable force to prevent a suspect from escaping from a police vehicle, causing a public hazard, and the suspect was actively resisting, attempting to assault the officer, trying to grab their weapon, and threatening bystanders.", "verdict": "Legal"}
+{"query": "They entered my house without a warrant, but I had called them to report a violent home invasion in progress and provided explicit consent for entry and assistance, and they had a reasonable belief the suspect was inside.", "verdict": "Legal"}
+{"query": "Police verbally abused my elderly neighbor, calling him names, threatening him with arrest, insulting his family, using racial slurs, making derogatory comments about his caste, physically intimidating him, and spitting on him.", "verdict": "Illegal"}
+{"query": "My phone was taken, and they said it was for 'evidence' but didn't provide any specific legal justification, documentation, or explanation, refused to give a memo, threatened me, physically assaulted me, and damaged my phone.", "verdict": "Illegal"}
+{"query": "Police arrested a person who was suspected of having committed a cognizable offense, and they had strong evidence, a warrant was not immediately obtainable due to risk of escape, the arrest was necessary for proper investigation, they informed the person of their rights, provided a medical examination, and allowed them to contact a relative.", "verdict": "Legal"}
+{"query": "They searched my property without a warrant, but I had a strong smell of illegal substances, visible contraband, a history of drug trafficking, was attempting to destroy evidence, was resisting the search, had a weapon, and was threatening the officers.", "verdict": "Unclear"}
+{"query": "I was arrested, and they didn't inform me of my right to be produced before a magistrate without unnecessary delay, my right to legal aid, my right to a medical examination, my right to inform a relative, my right to silence, and my right to be free from torture.", "verdict": "Illegal"}
+{"query": "Police asked me to provide my vehicle registration, insurance, and driver's license during a checkpoint, which is standard procedure and I complied fully and promptly, and they thanked me for my cooperation and explained the purpose of the check.", "verdict": "Legal"}
+{"query": "They forced me to undergo a narco-analysis test, a polygraph test, a brain-mapping test, a DNA sample collection, and a voice analysis without my consent.", "verdict": "Illegal"}
+{"query": "My phone was seized, and they provided a formal record of the seizure to the court and a copy to me, along with a detailed explanation of the legal basis, the process followed, the expected timeline for its return, and information on how to request its interim return.", "verdict": "Legal"}
+{"query": "An officer used excessive force, causing severe and permanent injury, when I was already restrained, not resisting, posed no threat, was verbally complying, begging them to stop, had a pre-existing medical condition, and was unconscious.", "verdict": "Illegal"}
+{"query": "They entered my house with a valid search warrant, and the search was conducted with full transparency, adherence to procedures, audio-video recording, my lawyer present, two independent witnesses, a female officer for female occupants, and a copy of the search memo was provided.", "verdict": "Legal"}
