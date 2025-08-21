@@ -10,6 +10,8 @@ Unlike ChatGPT, which does not have access to all Indian laws or a domain-specif
 <video src="https://github.com/shiva252sai/lexprotect/raw/main/demo/demo.mp4" controls width="700">
   Your browser does not support the video tag.
 </video>
+[Watch the video here](https://github.com/shiva252sai/lexprotect/raw/main/demo/demo.mp4)
+
 
 
 ---
